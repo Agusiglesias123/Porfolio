@@ -56,7 +56,7 @@ body{
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--second-color);
-  background-image: url(/img/fondo.svg);
+  background-image: url(./img/fondo.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
